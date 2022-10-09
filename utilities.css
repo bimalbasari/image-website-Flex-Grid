@@ -1,0 +1,279 @@
+:root {
+  --backgroundColor: rgb(2, 0, 36);
+  --textColor: rgb(125, 101, 101);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6,p,ul,li,span{
+    margin: 0;
+    padding: 0;
+}
+body {
+  scroll-behavior: smooth;
+  background: linear-gradient(
+    -70deg,
+    rgb(50, 42, 198) 0%,
+    rgba(215, 203, 223, 1) 33%,
+    rgb(101, 207, 230) 100%
+  );
+}
+.container{
+    background-color: var(--backgroundColor);
+    margin:20px  ;
+    padding: 5px;
+
+}
+div > div {
+  
+  margin: 2px;
+  
+  
+}
+.box-1 {
+    background-image: url(./Media/Background\ Images\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-2 {
+    background-image: url(./Media/Background\ Images\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-3 {
+    background-image: url(./Media/Background\ Images\ \(3\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-4 {
+    background-image: url(./Media/Background\ Images\ \(4\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-5 {
+    background-image: url(./Media/Background\ Images\ \(5\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-6 {
+    background-image: url(./Media/Background\ Images\ \(6\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-7 {
+    background-image: url(./Media/Background\ Images\ \(7\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-8 {
+    background-image: url(./Media/Background\ Images\ \(8\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-9 {
+    background-image: url(./Media/Background\ Images\ \(9\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-10 {
+    background-image: url(./Media/Background\ Images\ \(10\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-11 {
+    background-image: url(./Media/Background\ Images\ \(11\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-12 {
+    background-image: url(./Media/Background\ Images\ \(12\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-13 {
+    background-image: url(./Media/Background\ Images\ \(13\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-14 {
+    background-image: url(./Media/Background\ Images\ \(14\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}.box-15 {
+    background-image: url(./Media/Background\ Images\ \(15\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}.box-16 {
+    background-image: url(./Media/Background\ Images\ \(16\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}.box-17 {
+    background-image: url(./Media/Background\ Images\ \(17\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}.box-18 {
+    background-image: url(./Media/Background\ Images\ \(18\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}.box-19 {
+    background-image: url(./Media/Background\ Images\ \(19\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-20 {
+    background-image: url(./Media/Background\ Images\ \(20\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-21 {
+    background-image: url(./Media/Background\ Images\ \(21\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-22 {
+    background-image: url(./Media/Background\ Images\ \(22\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-23 {
+    background-image: url(./Media/Background\ Images\ \(23\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}.box-24 {
+    background-image: url(./Media/Background\ Images\ \(24\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.box-25 {
+    background-image: url(./Media/Background\ Images\ \(25\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-26 {
+    background-image: url(./Media/Background\ Images\ \(26\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.box-27 {
+    background-image: url(./Media/Background\ Images\ \(27\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.box-28 {
+    background-image: url(./Media/Background\ Images\ \(28\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.box-29 {
+    background-image: url(./Media/Background\ Images\ \(29\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+.box-30 {
+    background-image: url(./Media/Background\ Images\ \(30\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-31 {
+    background-image: url(./Media/Background\ Images\ \(31\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-32 {
+    background-image: url(./Media/Background\ Images\ \(32\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-33 {
+    background-image: url(./Media/Background\ Images\ \(33\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-34 {
+    background-image: url(./Media/Background\ Images\ \(34\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-35 {
+    background-image: url(./Media/Background\ Images\ \(35\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-36 {
+    background-image: url(./Media/Background\ Images\ \(36\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-37 {
+    background-image: url(./Media/Background\ Images\ \(37\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-38 {
+    background-image: url(./Media/Background\ Images\ \(38\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-39 {
+    background-image: url(./Media/Background\ Images\ \(39\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-40 {
+    background-image: url(./Media/Background\ Images\ \(40\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-41 {
+    background-image: url(./Media/Background\ Images\ \(41\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-42 {
+    background-image: url(./Media/Background\ Images\ \(42\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-43 {
+    background-image: url(./Media/Background\ Images\ \(43\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-44 {
+    background-image: url(./Media/Background\ Images\ \(44\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-45 {
+    background-image: url(./Media/Background\ Images\ \(45\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-46 {
+    background-image: url(./Media/Background\ Images\ \(46\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-47 {
+    background-image: url(./Media/Background\ Images\ \(47\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-48 {
+    background-image: url(./Media/Background\ Images\ \(48\).jpeg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.box-49 {
+    background-image: url(./Media/Background\ Images\ \(49\).jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
